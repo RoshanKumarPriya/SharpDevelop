@@ -59,7 +59,7 @@ If you want to contribute see ["Joining the team"](https://github.com/icsharpcod
 
 ## Reusable Libraries (Part of #Develop):
 
-* [AvalonEdit](http://avalonedit.net/)
+* [AvalonEdit](http://avalonedit.net/) Avalon Edit is a syntax-highting component
 * [Debugger.Core](https://github.com/icsharpcode/SharpDevelop/tree/master/src/AddIns/Debugger/Debugger.Core)
 * [ICSharpCode.Core](https://github.com/icsharpcode/SharpDevelop/tree/master/src/Main/Core)
 * [ICSharpCode.Decompiler](https://github.com/icsharpcode/SharpDevelop/tree/master/src/Libraries/ICSharpCode.Decompiler)
